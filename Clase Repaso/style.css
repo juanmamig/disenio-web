@@ -1,0 +1,28 @@
+*{
+   /* border: 1px solid black; */
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: indigo;
+    margin: 100px 0;
+}
+
+h2{
+    background-color: indigo;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+div {
+    width: 320px;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin: 10px;
+}
